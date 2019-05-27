@@ -1,9 +1,6 @@
 /* *
 * Title : Binary Search Trees
 * Author : Mian Usman Naeem Kakakhel
-* ID : 21701015
-* Section : 02
-* Assignment : 02
 * Description : Creates the binary tree and creates all the helper methods of the binary tree
 */
 
